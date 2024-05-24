@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @666sasm
-- 👀 I’m interested in ...mining eth.
+- 👀 I’m interested in .info
 - 🌱 I’m currently learning ..to relax lol.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...on github
